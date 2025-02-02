@@ -9,12 +9,10 @@ Este es un script básico que calcula el interés simple utilizando los siguient
 ### Fórmula utilizada  
 El interés simple se calcula con la siguiente fórmula:  
 
-\[
-\text{Interés} = \frac{\text{Capital} \times \text{Tasa} \times \text{Tiempo}}{100}
-\]
+Interes = (Capital×Tasa×Tiempo)/100
 
 ### Licencia  
 Este proyecto está bajo la **Licencia Apache 2.0**. Consulta el archivo LICENSE para más detalles.  
 
 ### Contribuciones  
-Si deseas contribuir a este proyecto, revisa nuestras pautas de contribución en el archivo [CONTRIBUTING.md](CONTRIBUTING.md).
+Si deseas contribuir a este proyecto, revisa nuestras pautas de contribución en el archivo CONTRIBUTING.
